@@ -1,0 +1,10 @@
+[package]
+name = "iron-onefile"
+version = "0.1.0"
+authors = ["Ueki Masaru <masaru.ueki@itage.co.jp>"]
+
+[dependencies]
+iron = "*"
+router = "*"
+mount = "*"
+include_dir = { git = "https://github.com/maueki/include_dir.rs.git" }
