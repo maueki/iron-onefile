@@ -11,4 +11,5 @@ lazy_static = "*"
 staticfile = "*"
 conduit-mime-types = "*"
 hyper = "*"
-include_dir = { git = "https://github.com/maueki/include_dir.rs.git" }
+include_dir_bytes = "*"
+embed_staticfile = { git = "https://github.com/maueki/embed_staticfile.rs.git" }
